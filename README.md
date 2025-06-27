@@ -10,7 +10,7 @@
 
 - 🧑‍🎓 I’m currently learning  `Software Engineering`.
 
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://drive.google.com/file/d/1RFr3A9zt4FFJjwiBzIx3hdwjMWHkDMZ-/view?usp=drivesdk).
+- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY RESUME](https://drive.google.com/file/d/1YHR_RyGcqW7fmGFmRqPR7LD4LS9JJZY2/view?usp=drivesdk).
 
 - 💻 Passionate about Backend Development, building RESTful APIs using Java & Spring Boot
 
