@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed Sameh 👋</h1>
 
-<br>
 
 ## About Me
 
