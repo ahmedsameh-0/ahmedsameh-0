@@ -8,7 +8,7 @@
 - 💼 I was a Software Engineering in 2023.
 - 💻 Passionate about **Backend Development** using **Java & Spring Boot & Servlet**.
 - 🔐 Experienced with **Spring Security**, **JWT**, **RESTful APIs**, and **Event-Driven Architecture** using **Apache Kafka**.
-- 🧼 I value writing **Clean Code** and practicing **Scalable Web Applications**.
+- 🧼 I value writing **Clean Code** and following **Clean Architecture** principles to design **Scalable Web Applications**.
 - 📂 I’m currently open for a new **Internship** or **Job** opportunity.
 
 ---
