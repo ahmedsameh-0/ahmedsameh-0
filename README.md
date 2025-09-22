@@ -6,19 +6,18 @@
 ### 🧠 About Me
 - 🎓 I'm Student at **October Technological University**, Specialist **Information and Technology**
 - 💼 I was a Software Engineering in 2023.
-- 💻 Passionate about **Backend Development** using **Java & Spring Boot & Servlet**
-- 🔐 Experienced with **Spring Security**, **JWT**, **RESTful APIs**, and **Event-Driven Architecture** using **Apache Kafka**
-- 🧼 I value writing **Clean Code** and practicing **Scalable Web Applications**
-- 📂 I’m currently open for a new **Internship** or **Job** opportunity. Here's [MY EMAIL](mailto:dev.ahmedsameh76@gmail.com).
-- 📫 Let's Connect Me ❤️.
+- 💻 Passionate about **Backend Development** using **Java & Spring Boot & Servlet**.
+- 🔐 Experienced with **Spring Security**, **JWT**, **RESTful APIs**, and **Event-Driven Architecture** using **Apache Kafka**.
+- 🧼 I value writing **Clean Code** and practicing **Scalable Web Applications**.
+- 📂 I’m currently open for a new **Internship** or **Job** opportunity.
 
 ---
 
-## 📫 Connect with me
+## 📫 Let's Connect Me ️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsameh0)
 [![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?logo=github&logoColor=white)](https://github.com/ahmedsameh-0)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmedsameh76@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dev.ahmedsameh76@gmail.com)
 
 ---
 
